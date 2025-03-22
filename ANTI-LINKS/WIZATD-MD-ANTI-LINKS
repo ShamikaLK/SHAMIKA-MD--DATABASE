@@ -1,5 +1,4 @@
-{
-  "anti_links": [
+[
     "https?:\\/\\/(?:chat\\.whatsapp\\.com|wa\\.me)\\/\\S+",
     "https?:\\/\\/(www\\.)?whatsapp\\.com\\/channel\\/([a-zA-Z0-9_-]+)$",
     "wa\\.me\\/\\S+",
@@ -29,4 +28,4 @@
     "https?:\\/\\/(?:www\\.)?cam4\\.com\\/\\S*",
     "https?:\\/\\/(?:www\\.)?livejasmin\\.com\\/\\S*"
   ]
-}
+
