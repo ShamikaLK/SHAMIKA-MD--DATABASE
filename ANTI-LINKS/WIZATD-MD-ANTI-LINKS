@@ -1,1 +1,32 @@
-//WIZARD-MD
+{
+  "anti_links": [
+    "https?:\\/\\/(?:chat\\.whatsapp\\.com|wa\\.me)\\/\\S+",
+    "https?:\\/\\/(www\\.)?whatsapp\\.com\\/channel\\/([a-zA-Z0-9_-]+)$",
+    "wa\\.me\\/\\S+",
+    "https?:\\/\\/(?:t\\.me|telegram\\.me)\\/\\S+",
+    "https?:\\/\\/fb\\.me\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?linkedin\\.com\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?snapchat\\.com\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?reddit\\.com\\/\\S+",
+    "https?:\\/\\/ngl\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?discord\\.com\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?twitch\\.tv\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?vimeo\\.com\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?dailymotion\\.com\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?medium\\.com\\/\\S+",
+    "https?:\\/\\/(?:www\\.)?pornhub\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?xvideos\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?xnxx\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?redtube\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?youporn\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?tube8\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?spankbang\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?chaturbate\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?fapello\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?onlyfans\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?fansly\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?bongacams\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?cam4\\.com\\/\\S*",
+    "https?:\\/\\/(?:www\\.)?livejasmin\\.com\\/\\S*"
+  ]
+}
