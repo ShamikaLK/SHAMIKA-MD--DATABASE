@@ -9,17 +9,17 @@
 ## Install
 Install in index.js in your bot
 
-<bAuto Voice</b>
+<b>Auto Voice</b>
 ```
 https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/VOICE-CLIPS/SHAMIKA-MD-VOICE
 ```
 
-<bAuto Sticker</b>
+<b>Auto Sticker</b>
 ```
 https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/STICKERS-RAW/SHAMIKA-MD-STICKER
 ```
 
-<bAuto Msg</b>
+<b>Auto Msg</b>
 ```
 import makeWASocket from '@whiskeysockets/baileys'
 ```
