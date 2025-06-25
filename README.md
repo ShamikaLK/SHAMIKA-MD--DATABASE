@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/STICKERS-R
 
 <b>Auto Msg</b>
 ```
-import makeWASocket from '@whiskeysockets/baileys'
+Coming Soon.....
 ```
 
 <b>Anti Links</b>
