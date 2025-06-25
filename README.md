@@ -9,27 +9,27 @@
 ## Install
 Install in index.js in your bot
 
-Auto Voice
-```
+
+```Auto Voice
 https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/VOICE-CLIPS/SHAMIKA-MD-VOICE
 ```
 
-Auto Sticker
-```
+
+```Auto Sticker
 https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/STICKERS-RAW/SHAMIKA-MD-STICKER
 ```
 
-Auto Msg
-```
+
+```Auto Msg
 import makeWASocket from '@whiskeysockets/baileys'
 ```
 
-Anti Links
-```
+
+```Anti Links
 https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/refs/heads/main/ANTI-LINKS/SHAMIKA-MD-ANTI-LINKS
 ```
 
-Bad Word
-```
+
+```<b>Bad Word</b>
 https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/BAD-WORDS/SHAMIKA-MD-ANTI-BAD
 ```
