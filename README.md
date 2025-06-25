@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/BAD-WORDS/
 ## Exsample Code
 
 
-```
+```js
 if (config.AUTO_VOICE === 'true') {
       const url = 'https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/VOICE-CLIPS/SHAMIKA-MD-VOICE';
       try {
