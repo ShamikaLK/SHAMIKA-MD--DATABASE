@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/BAD-WORDS/
 
 ## Exsample Code <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>
 
-Type cjs & Ems Code
+🌟 Type cjs & Ems Code for index.js file
 ```js
 if (config.AUTO_VOICE === 'true') {
       const url = 'https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/VOICE-CLIPS/SHAMIKA-MD-VOICE';
@@ -47,7 +47,7 @@ if (config.AUTO_VOICE === 'true') {
           
           for (let vr in data) {
               if ((new RegExp(`\\b${vr}\\b`, 'gi')).test(body)) {
-                  await conn.sendMessage(from, {
+                  await sock.sendMessage(from, {
                       audio: {
                           url: data[vr]
                       },
@@ -61,18 +61,52 @@ if (config.AUTO_VOICE === 'true') {
           console.error("Error fetching voice clips:", error);
       }
   }
-```
+````
+🌟 Type cjs Code for auto.js file
+
+```js
+const config = require('../config');
+const { cmd, commands } = require('../command');
+const { fetchData } = require('../lib/functions');
+
+cmd({
+    on: "body"
+}, async (sock, mek, m, { from, body, isOwner }) => {
+    try {
+        const voiceUrl = 'https://raw.githubusercontent.com/ShamikaLK/SHAMIKA-MD--DATABASE/main/VOICE-CLIPS/SHAMIKA-MD-VOICE';
+        const data = await fetchData(voiceUrl);
+        
+        for (const text in data) {
+            if (body.toLowerCase() === text.toLowerCase()) {
+                if (config.AUTO_VOICE === 'true') {
+                    //if (isOwner) return;        
+                    await sock.sendPresenceUpdate('recording', from);
+                    await sock.sendMessage(from, { 
+                        audio: { url: data[text] }, 
+                        mimetype: 'audio/mpeg', 
+                        ptt: true 
+                    }, { quoted: mek });
+                }
+            }
+        }
+    } catch (error) {
+        console.error('Error in auto voice:', error);
+    }
+});
+
+````
 <br>
 
 -----
 
 <br>
 
-## Notes
+## Notes ‼️
 Thank for using this.
 Please give this a star and a fork this repo. It would be a great help to me. Don't forget to follow me.
 
-<b>Last Update:-</b> 2025/06/25 
+<b>📆 Last Update:-</b> 2025/06/25<br> 
+<b>🕛 Last Update Time:-</b> 06:15pm
 <br>
 
 <div align="center">
