@@ -1,11 +1,11 @@
-# <div align='center'>SHAMIKA-MD-DATABASE</div>
+# <div align='center'> <b>**SHAMIKA-MD-DATABASE**</b> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </div> 
 
 <div align="center">
 
-  <img src="https://i.ibb.co/93c0VgP7/shamika-wa-baileys.jpg" />
+  <img src="https://i.ibb.co/TDX2Dch5/SHAMIKA-MD-DATABASE.png" />
       <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SHAMIKA_HARSHAMAL-red.svg?style=for-the-badge&logo=github"></a>
-
+      <a href="#">
+  <img title="Creator" src="https://img.shields.io/badge/Creator-SHAMIKA_HARSHAMAL-red.svg?style=for-the-badge&logo=github">
 </div>
 
 ## Installation <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -62,3 +62,19 @@ if (config.AUTO_VOICE === 'true') {
       }
   }
 ```
+<br>
+
+-----
+
+<br>
+
+## Notes
+Thank for using this.
+Please give this a star and a fork this repo. It would be a great help to me. Don't forget to follow me.
+
+<b>Last Update:-</b> 2025/06/25 
+<br>
+
+<div align="center">
+  <p><b>Shamika Harshamal Project in <i>SHAMIKA-MD--DATABASE</i></b></p>
+</div>
