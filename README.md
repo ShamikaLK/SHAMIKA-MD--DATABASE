@@ -3,6 +3,8 @@
 <div align="center">
 
   <img src="https://i.ibb.co/93c0VgP7/shamika-wa-baileys.jpg" />
+      <p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SHAMIKA_HARSHAMAL-red.svg?style=for-the-badge&logo=github"></a>
 
 </div>
 
