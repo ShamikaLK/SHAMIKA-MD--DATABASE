@@ -6,6 +6,8 @@
       <p align="center">
       <a href="#">
   <img title="Creator" src="https://img.shields.io/badge/Creator-SHAMIKA_HARSHAMAL-red.svg?style=for-the-badge&logo=github">
+
+  <b><a href="#"><img src="http://readme-typing-svg.herokuapp.com/?color=FF2024&center=true&vCenter=true&multiline=false&lines=Update+coming+soon+...+!" alt="" width = 900px></b>
 </div>
 
 ## Installation <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -105,8 +107,8 @@ cmd({
 Thank for using this.
 Please give this a star and a fork this repo. It would be a great help to me. Don't forget to follow me.
 
-<b>📆 Last Update:-</b> 2025/06/25<br> 
-<b>🕛 Last Update Time:-</b> 06:15pm
+<b>📆 Last Update:-</b> 2025/06/27<br> 
+<b>🕛 Last Update Time:-</b> 09:15pm
 <br>
 
 <div align="center">
